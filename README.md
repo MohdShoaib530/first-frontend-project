@@ -1,2 +1,2 @@
-# html5-css-projects
-Some interesting and easy projects with html5 and css
+Simple Portfolio Website
+This repository contains code for a responsive portfolio website which is created using html,css and javascript.
